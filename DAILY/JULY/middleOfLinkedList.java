@@ -10,15 +10,20 @@ class Node{
 
 public class middleOfLinkedList {
     public static Node middleNode(Node head) {
-        Node slow = head;
-        Node fast = head;
+        int length = 0;
+        Node temp = head;
 
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+        while(temp != null){
+            temp = temp.next;
+            length++;
         }
 
-        return slow;
+        temp = head;
+        for (int i = 1; i <= length/2; i++) {
+            temp = temp.next;
+        }
+
+        return temp;
     }
 
     public static void main(String[] args) {
