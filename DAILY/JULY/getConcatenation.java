@@ -1,5 +1,5 @@
 public class getConcatenation {
-    public static int[] getConcatenation(int[] nums) {
+    public static int[] Concatenation(int[] nums) {
         int n = nums.length;
         int[] ans = new int[2*n];
 
@@ -19,7 +19,7 @@ public class getConcatenation {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3};
         
-        int[] result = getConcatenation(nums);
+        int[] result = Concatenation(nums);
         System.out.print("Concatenated array: ");
 
         for (int num : result) {
