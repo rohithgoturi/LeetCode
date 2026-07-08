@@ -1,5 +1,5 @@
 public class swapNodes {
-    public static Node swapNodes(Node head, int k) {
+    public static Node swapingNodes(Node head, int k) {
         Node fast = head;
         Node slow = head;
 
@@ -29,9 +29,8 @@ public class swapNodes {
         head.next.next.next.next = new Node(5);
 
         int k = 2;
-        head = swapNodes(head, k);
-
-        // Print the modified linked list
+        head = swapingNodes(head, k);
+        
         Node current = head;
         while (current != null) {
             System.out.print(current.data + " ");
