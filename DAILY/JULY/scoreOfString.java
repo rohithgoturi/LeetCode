@@ -1,5 +1,5 @@
 public class scoreOfString {
-     public static int scoreOfString(String str) {
+     public static int getScoreOfString(String str) {
         int n = str.length();
         int score = 0;
         for(int i = 0; i<n-1; i++){
@@ -13,7 +13,7 @@ public class scoreOfString {
 
     public static void main(String[] args) {
         String str = "hello";
-        int result = scoreOfString(str);
+        int result = getScoreOfString(str);
         System.out.println("Score of the string: " + result); 
     }
 
