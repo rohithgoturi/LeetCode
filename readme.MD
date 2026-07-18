@@ -1,1 +1,0 @@
-this repo is just for my leetcode problems practice.
