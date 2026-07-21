@@ -1,0 +1,106 @@
+name: Generate Topic-Wise Readme
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate README
+        run: |
+          cat << 'EOF' > generate_readme.py
+          import os
+          import re
+          import requests
+
+          def get_leetcode_info(slug):
+              url = 'https://leetcode.com/graphql'
+              query = """
+              query questionData($titleSlug: String!) {
+                question(titleSlug: $titleSlug) {
+                  difficulty
+                  topicTags {
+                    name
+                  }
+                }
+              }
+              """
+              try:
+                  res = requests.post(url, json={'query': query, 'variables': {'titleSlug': slug}}, timeout=5)
+                  data = res.json()
+                  q = data.get('data', {}).get('question', {})
+                  if q:
+                      difficulty = q.get('difficulty', 'Unknown')
+                      tags = [t['name'] for t in q.get('topicTags', [])]
+                      return difficulty, tags if tags else ['Uncategorized']
+              except Exception as e:
+                  print(f"Error fetching {slug}: {e}")
+              return 'Unknown', ['Uncategorized']
+
+          def build_readme():
+              ignore = {'.git', '.github', 'DAILY', 'Mathematical'}
+              folders = [f for f in os.listdir('.') if os.path.isdir(f) and f not in ignore]
+              
+              topics_map = {}
+
+              for folder in folders:
+                  # Expected folder format: '0019-remove-nth-node-from-end-of-list'
+                  match = re.match(r'^(\d+)-(.*)$', folder)
+                  if match:
+                      prob_num = match.group(1)
+                      slug = match.group(2)
+                      prob_name = slug.replace('-', ' ').title()
+                      
+                      difficulty, tags = get_leetcode_info(slug)
+                      
+                      item = {
+                          'num': prob_num,
+                          'name': prob_name,
+                          'folder': folder,
+                          'difficulty': difficulty
+                      }
+                      
+                      for tag in tags:
+                          topics_map.setdefault(tag, []).append(item)
+
+              readme_lines = ["# LeetCode Solutions Index\n\n", "Automated topic-wise breakdown of solved LeetCode problems.\n\n"]
+
+              for tag in sorted(topics_map.keys()):
+                  readme_lines.append(f"## {tag}\n\n")
+                  readme_lines.append("| # | Problem Name | Difficulty | Solution |\n")
+                  readme_lines.append("|---|---|---|---|\n")
+                  
+                  # Sort problems by problem number within each topic
+                  sorted_problems = sorted(topics_map[tag], key=lambda x: int(x['num']))
+                  for p in sorted_problems:
+                      readme_lines.append(f"| {p['num']} | {p['name']} | {p['difficulty']} | [{p['folder']}](./{p['folder']}) |\n")
+                  readme_lines.append("\n")
+
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.writelines(readme_lines)
+
+          if __name__ == '__main__':
+              build_readme()
+          EOF
+          python generate_readme.py
+          rm generate_readme.py
+
+      - name: Commit and Push README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: update topic-wise README.md [skip ci]"
