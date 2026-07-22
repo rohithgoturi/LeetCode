@@ -9,6 +9,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
+| 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
 ## Data Stream
@@ -68,6 +69,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
+## Math
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
+
 ## Merge Sort
 
 | # | Problem Name | Difficulty | Solution |
@@ -83,11 +90,18 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
+## Queue
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
+
 ## Recursion
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
+| 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
 ## Simulation
@@ -95,6 +109,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
+| 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
 ## Sorting
