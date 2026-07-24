@@ -17,6 +17,13 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
+| 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+
+## Breadth-First Search
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 
 ## Data Stream
 
@@ -29,6 +36,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
+| 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 
 ## Design
@@ -155,6 +163,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
+| 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 
 ## Two Pointers
 
