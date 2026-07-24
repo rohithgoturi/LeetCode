@@ -12,6 +12,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
+## Binary Tree
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
+
 ## Data Stream
 
 | # | Problem Name | Difficulty | Solution |
@@ -22,6 +28,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 
 ## Design
@@ -127,6 +134,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
+| 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 225 | Implement Stack Using Queues | Easy | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
@@ -141,6 +149,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
+
+## Tree
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 
 ## Two Pointers
 
