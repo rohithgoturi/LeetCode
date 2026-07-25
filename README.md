@@ -18,6 +18,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
+| 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
@@ -29,6 +30,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
+| 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
@@ -45,6 +47,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
+| 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
@@ -179,6 +182,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
+| 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
