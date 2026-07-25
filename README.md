@@ -21,6 +21,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
+| 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
@@ -33,6 +34,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
+| 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 
 ## Data Stream
@@ -50,6 +52,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
+| 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
@@ -185,6 +188,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
+| 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
