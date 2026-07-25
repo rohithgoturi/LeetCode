@@ -20,6 +20,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
@@ -51,6 +52,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
@@ -187,6 +189,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
