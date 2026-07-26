@@ -19,6 +19,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
+| 102 | Binary Tree Level Order Traversal | Medium | [102-binary-tree-level-order-traversal](./102-binary-tree-level-order-traversal) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
@@ -34,6 +35,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
+| 102 | Binary Tree Level Order Traversal | Medium | [102-binary-tree-level-order-traversal](./102-binary-tree-level-order-traversal) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
@@ -191,6 +193,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
+| 102 | Binary Tree Level Order Traversal | Medium | [102-binary-tree-level-order-traversal](./102-binary-tree-level-order-traversal) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
