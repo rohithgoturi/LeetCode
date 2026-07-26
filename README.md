@@ -25,6 +25,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
+| 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 
 ## Breadth-First Search
@@ -36,6 +37,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
+| 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 
 ## Data Stream
@@ -57,6 +59,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
+| 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 
@@ -194,6 +197,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
+| 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 
 ## Two Pointers
