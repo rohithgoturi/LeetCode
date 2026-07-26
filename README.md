@@ -29,6 +29,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
+| 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 
 ## Breadth-First Search
 
@@ -65,6 +66,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
+| 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 
 ## Design
@@ -205,6 +207,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
+| 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 
 ## Two Pointers
 
