@@ -31,13 +31,17 @@ class Solution {
         while (!queue.isEmpty()) {
 
             int size = queue.size();
-            List<Integer> level = new ArrayList<>();
+            LinkedList<Integer> level = new LinkedList<>();
 
             for (int i = 0; i < size; i++) {
 
                 TreeNode node = queue.poll();
 
-                level.add(node.val);
+                if (leftToRight) {
+                    level.addLast(node.val);
+                } else {
+                    level.addFirst(node.val);
+                }
 
                 if (node.left != null) {
                     queue.offer(node.left);
@@ -46,10 +50,6 @@ class Solution {
                 if (node.right != null) {
                     queue.offer(node.right);
                 }
-            }
-
-            if (!leftToRight) {
-                Collections.reverse(level);
             }
 
             result.add(level);
