@@ -20,9 +20,7 @@ class Solution {
         return build(0, n - 1, 0, n - 1, inorder, postorder);
     }
 
-    public TreeNode build(int inLow, int inHigh,
-                          int postLow, int postHigh,
-                          int[] inorder, int[] postorder) {
+    public TreeNode build(int inLow, int inHigh,int postLow, int postHigh, int[] inorder, int[] postorder) {
 
         if (inLow > inHigh || postLow > postHigh)
             return null;
@@ -40,13 +38,9 @@ class Solution {
 
         int leftSize = idx - inLow;
 
-        root.left = build(inLow, idx - 1,
-                          postLow, postLow + leftSize - 1,
-                          inorder, postorder);
+        root.left = build(inLow, idx - 1,postLow, postLow + leftSize - 1, inorder, postorder);
 
-        root.right = build(idx + 1, inHigh,
-                           postLow + leftSize, postHigh - 1,
-                           inorder, postorder);
+        root.right = build(idx + 1, inHigh, postLow + leftSize, postHigh - 1, inorder, postorder);
 
         return root;
     }
