@@ -15,11 +15,18 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
+## Binary Search Tree
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 98 | Validate Binary Search Tree | Medium | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
+
 ## Binary Tree
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
+| 98 | Validate Binary Search Tree | Medium | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 102 | Binary Tree Level Order Traversal | Medium | [102-binary-tree-level-order-traversal](./102-binary-tree-level-order-traversal) |
@@ -31,6 +38,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
+| 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
@@ -61,6 +69,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
+| 98 | Validate Binary Search Tree | Medium | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 104 | Maximum Depth Of Binary Tree | Easy | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
@@ -68,6 +77,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
+| 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
@@ -77,6 +87,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 225 | Implement Stack Using Queues | Easy | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 
@@ -123,6 +134,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 | 2182 | Find The Minimum And Maximum Number Of Nodes Between Critical Points | Medium | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](./2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
+| 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
 ## Math
 
@@ -143,11 +155,13 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
+| 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
 ## Queue
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 225 | Implement Stack Using Queues | Easy | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 
@@ -157,6 +171,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
+| 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
 ## Simulation
 
@@ -180,11 +195,14 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
+| 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
+| 225 | Implement Stack Using Queues | Easy | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
+| 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
 ## String
 
@@ -197,6 +215,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
+| 98 | Validate Binary Search Tree | Medium | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 | 100 | Same Tree | Easy | [100-same-tree](./100-same-tree) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree](./101-symmetric-tree) |
 | 102 | Binary Tree Level Order Traversal | Medium | [102-binary-tree-level-order-traversal](./102-binary-tree-level-order-traversal) |
@@ -208,6 +227,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
+| 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
@@ -220,12 +240,4 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 0019 | Remove Nth Node From End Of List | Medium | [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
-
-## Uncategorized
-
-| # | Problem Name | Difficulty | Solution |
-|---|---|---|---|
-| 145 | Binary Tree Postorder Traversal | Unknown | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
-| 225 | Implement Stack Using Queues | Unknown | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
-| 2573 | Remove Nodes From Linked List | Unknown | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
