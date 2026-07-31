@@ -18,6 +18,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
+## Backtracking
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
+
 ## Binary Search
 
 | # | Problem Name | Difficulty | Solution |
@@ -47,6 +53,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
+| 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
@@ -87,6 +94,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
+| 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
@@ -245,6 +253,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
+| 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
