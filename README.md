@@ -88,6 +88,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 1837 | Daily Leads And Partners | Easy | [1837-daily-leads-and-partners](./1837-daily-leads-and-partners) |
 | 1908 | Recyclable And Low Fat Products | Easy | [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) |
 | 2495 | Number Of Unique Subjects Taught By Each Teacher | Easy | [2495-number-of-unique-subjects-taught-by-each-teacher](./2495-number-of-unique-subjects-taught-by-each-teacher) |
 
