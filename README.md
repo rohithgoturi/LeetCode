@@ -10,6 +10,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
+| 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -125,6 +126,18 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 
+## Dynamic Programming
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
+
+## Game Theory
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
+
 ## Greedy
 
 | # | Problem Name | Difficulty | Solution |
@@ -165,6 +178,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 
 ## Merge Sort
@@ -195,6 +209,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
+| 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
