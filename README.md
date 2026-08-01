@@ -83,6 +83,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 
+## Database
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1908 | Recyclable And Low Fat Products | Easy | [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) |
+
 ## Depth-First Search
 
 | # | Problem Name | Difficulty | Solution |
