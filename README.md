@@ -14,6 +14,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
+| 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
@@ -140,12 +141,14 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
+| 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 
 ## Game Theory
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
+| 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 
 ## Greedy
 
@@ -188,6 +191,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
+| 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 
 ## Merge Sort
