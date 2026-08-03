@@ -103,6 +103,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
 | 1837 | Daily Leads And Partners | Easy | [1837-daily-leads-and-partners](./1837-daily-leads-and-partners) |
 | 1892 | Find Total Time Spent By Each Employee | Easy | [1892-find-total-time-spent-by-each-employee](./1892-find-total-time-spent-by-each-employee) |
 | 1908 | Recyclable And Low Fat Products | Easy | [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) |
