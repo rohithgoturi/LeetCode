@@ -19,6 +19,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
+| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
@@ -27,6 +28,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
+
+## Binary Lifting
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 
 ## Binary Search
 
@@ -65,6 +72,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 783 | Search In A Binary Search Tree | Easy | [783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+
+## Bracket Sequences
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 
 ## Breadth-First Search
 
@@ -145,6 +158,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
+| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
 ## Game Theory
 
@@ -152,6 +166,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
+| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
 ## Greedy
 
@@ -190,12 +205,19 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
+## Lowest Common Ancestor
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
+
 ## Math
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
+| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 
 ## Merge Sort
@@ -203,6 +225,14 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 23 | Merge K Sorted Lists | Hard | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
+
+## Minimax
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
+| 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
+| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
 ## Monotonic Stack
 
@@ -277,6 +307,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 
+## Tournament Sort
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 23 | Merge K Sorted Lists | Hard | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
+
 ## Tree
 
 | # | Problem Name | Difficulty | Solution |
@@ -314,4 +350,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
+
+## Zero-Sum Game
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
+| 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
+| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
