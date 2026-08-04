@@ -22,6 +22,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
+| 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
 ## Backtracking
@@ -197,6 +198,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 138 | Copy List With Random Pointer | Medium | [138-copy-list-with-random-pointer](./138-copy-list-with-random-pointer) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 
 ## Heap (Priority Queue)
 
@@ -306,6 +308,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
+| 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 
 ## Stack
 
