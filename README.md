@@ -119,6 +119,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
 | 595 | Big Countries | Easy | [595-big-countries](./595-big-countries) |
+| 1258 | Article Views I | Easy | [1258-article-views-i](./1258-article-views-i) |
 | 1837 | Daily Leads And Partners | Easy | [1837-daily-leads-and-partners](./1837-daily-leads-and-partners) |
 | 1892 | Find Total Time Spent By Each Employee | Easy | [1892-find-total-time-spent-by-each-employee](./1892-find-total-time-spent-by-each-employee) |
 | 1908 | Recyclable And Low Fat Products | Easy | [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) |
