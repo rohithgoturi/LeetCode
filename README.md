@@ -94,6 +94,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
+| 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
 
 ## Bucket Sort
 
@@ -146,6 +147,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
+| 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
 
 ## Design
 
@@ -187,6 +189,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
+
+## Graph Theory
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
 
 ## Greedy
 
