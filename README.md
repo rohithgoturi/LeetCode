@@ -18,6 +18,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
+| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
@@ -168,6 +169,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
+| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
 ## Doubly-Linked List
 
@@ -190,6 +192,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
+
+## Geometry
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
 ## Graph Theory
 
@@ -220,6 +228,13 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 23 | Merge K Sorted Lists | Hard | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
+| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
+
+## K-D Tree
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
 ## Linked List
 
@@ -248,6 +263,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
+| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 
@@ -288,6 +304,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
+| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
 ## Radix Sort
 
@@ -320,6 +337,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 147 | Insertion Sort List | Medium | [147-insertion-sort-list](./147-insertion-sort-list) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
+| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 
