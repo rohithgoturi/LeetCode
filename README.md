@@ -120,6 +120,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
 | 595 | Big Countries | Easy | [595-big-countries](./595-big-countries) |
+| 1153 | Product Sales Analysis I | Easy | [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) |
 | 1258 | Article Views I | Easy | [1258-article-views-i](./1258-article-views-i) |
 | 1509 | Replace Employee Id With The Unique Identifier | Easy | [1509-replace-employee-id-with-the-unique-identifier](./1509-replace-employee-id-with-the-unique-identifier) |
 | 1827 | Invalid Tweets | Easy | [1827-invalid-tweets](./1827-invalid-tweets) |
