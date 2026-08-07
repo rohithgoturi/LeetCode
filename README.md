@@ -119,11 +119,14 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 197 | Rising Temperature | Easy | [197-rising-temperature](./197-rising-temperature) |
 | 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
 | 595 | Big Countries | Easy | [595-big-countries](./595-big-countries) |
 | 1153 | Product Sales Analysis I | Easy | [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) |
 | 1258 | Article Views I | Easy | [1258-article-views-i](./1258-article-views-i) |
 | 1509 | Replace Employee Id With The Unique Identifier | Easy | [1509-replace-employee-id-with-the-unique-identifier](./1509-replace-employee-id-with-the-unique-identifier) |
+| 1724 | Customer Who Visited But Did Not Make Any Transactions | Easy | [1724-customer-who-visited-but-did-not-make-any-transactions](./1724-customer-who-visited-but-did-not-make-any-transactions) |
+| 1801 | Average Time Of Process Per Machine | Easy | [1801-average-time-of-process-per-machine](./1801-average-time-of-process-per-machine) |
 | 1827 | Invalid Tweets | Easy | [1827-invalid-tweets](./1827-invalid-tweets) |
 | 1837 | Daily Leads And Partners | Easy | [1837-daily-leads-and-partners](./1837-daily-leads-and-partners) |
 | 1892 | Find Total Time Spent By Each Employee | Easy | [1892-find-total-time-spent-by-each-employee](./1892-find-total-time-spent-by-each-employee) |
@@ -184,6 +187,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
+
+## Enumeration
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 
 ## Game Theory
 
@@ -266,6 +275,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
+| 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 
 ## Merge Sort
 
