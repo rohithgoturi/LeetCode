@@ -126,6 +126,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 595 | Big Countries | Easy | [595-big-countries](./595-big-countries) |
 | 1153 | Product Sales Analysis I | Easy | [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) |
 | 1258 | Article Views I | Easy | [1258-article-views-i](./1258-article-views-i) |
+| 1415 | Students And Examinations | Easy | [1415-students-and-examinations](./1415-students-and-examinations) |
 | 1509 | Replace Employee Id With The Unique Identifier | Easy | [1509-replace-employee-id-with-the-unique-identifier](./1509-replace-employee-id-with-the-unique-identifier) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | Easy | [1724-customer-who-visited-but-did-not-make-any-transactions](./1724-customer-who-visited-but-did-not-make-any-transactions) |
 | 1801 | Average Time Of Process Per Machine | Easy | [1801-average-time-of-process-per-machine](./1801-average-time-of-process-per-machine) |
