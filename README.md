@@ -31,6 +31,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
+| 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
 ## Binary Lifting
 
@@ -219,6 +220,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 11 | Container With Most Water | Medium | [11-container-with-most-water](./11-container-with-most-water) |
+| 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
 ## Hash Table
 
@@ -276,6 +278,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
+| 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
 ## Merge Sort
 
@@ -300,6 +303,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
+
+## Number Theory
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
 ## Queue
 
@@ -374,6 +383,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
+| 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
 ## Tournament Sort
 
