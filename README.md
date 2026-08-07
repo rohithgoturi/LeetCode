@@ -121,6 +121,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 197 | Rising Temperature | Easy | [197-rising-temperature](./197-rising-temperature) |
+| 577 | Employee Bonus | Easy | [577-employee-bonus](./577-employee-bonus) |
 | 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
 | 595 | Big Countries | Easy | [595-big-countries](./595-big-countries) |
 | 1153 | Product Sales Analysis I | Easy | [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) |
