@@ -122,6 +122,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 
 ## Database
@@ -171,6 +172,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 225 | Implement Stack Using Queues | Easy | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
+| 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 
 ## Divide and Conquer
@@ -250,6 +252,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 23 | Merge K Sorted Lists | Hard | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
+| 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
@@ -369,6 +372,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
 | 147 | Insertion Sort List | Medium | [147-insertion-sort-list](./147-insertion-sort-list) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
+| 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
@@ -441,6 +445,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
+| 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
 
