@@ -13,6 +13,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
+| 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
@@ -84,6 +85,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
+| 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 
 ## Bracket Sequences
 
@@ -118,6 +120,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
+| 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 
 ## Counting Sort
@@ -252,6 +255,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 138 | Copy List With Random Pointer | Medium | [138-copy-list-with-random-pointer](./138-copy-list-with-random-pointer) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
+| 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -383,6 +387,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 147 | Insertion Sort List | Medium | [147-insertion-sort-list](./147-insertion-sort-list) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
+| 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
