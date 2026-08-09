@@ -144,6 +144,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 197 | Rising Temperature | Easy | [197-rising-temperature](./197-rising-temperature) |
+| 570 | Managers With At Least 5 Direct Reports | Medium | [570-managers-with-at-least-5-direct-reports](./570-managers-with-at-least-5-direct-reports) |
 | 577 | Employee Bonus | Easy | [577-employee-bonus](./577-employee-bonus) |
 | 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
 | 595 | Big Countries | Easy | [595-big-countries](./595-big-countries) |
