@@ -28,6 +28,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
+| 3225 | Length Of Longest Subarray With At Most K Frequency | Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
@@ -267,6 +268,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
+| 3225 | Length Of Longest Subarray With At Most K Frequency | Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 
@@ -397,6 +399,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
+| 3225 | Length Of Longest Subarray With At Most K Frequency | Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 
 ## Sorting
 
