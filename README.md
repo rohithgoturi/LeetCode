@@ -160,6 +160,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1837 | Daily Leads And Partners | Easy | [1837-daily-leads-and-partners](./1837-daily-leads-and-partners) |
 | 1892 | Find Total Time Spent By Each Employee | Easy | [1892-find-total-time-spent-by-each-employee](./1892-find-total-time-spent-by-each-employee) |
 | 1908 | Recyclable And Low Fat Products | Easy | [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) |
+| 2087 | Confirmation Rate | Medium | [2087-confirmation-rate](./2087-confirmation-rate) |
 | 2495 | Number Of Unique Subjects Taught By Each Teacher | Easy | [2495-number-of-unique-subjects-taught-by-each-teacher](./2495-number-of-unique-subjects-taught-by-each-teacher) |
 
 ## Depth-First Search
