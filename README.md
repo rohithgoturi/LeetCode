@@ -92,6 +92,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
 | 191 | Number Of 1 Bits | Easy | [191-number-of-1-bits](./191-number-of-1-bits) |
+| 476 | Number Complement | Easy | [476-number-complement](./476-number-complement) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | Medium | [4033-longest-subsequence-with-non-zero-bitwise-xor](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 
 ## Boyer–Moore Majority Vote Algorithm
