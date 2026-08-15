@@ -91,6 +91,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
+| 190 | Reverse Bits | Easy | [190-reverse-bits](./190-reverse-bits) |
 | 191 | Number Of 1 Bits | Easy | [191-number-of-1-bits](./191-number-of-1-bits) |
 | 476 | Number Complement | Easy | [476-number-complement](./476-number-complement) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | Medium | [4033-longest-subsequence-with-non-zero-bitwise-xor](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -212,6 +213,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
+| 190 | Reverse Bits | Easy | [190-reverse-bits](./190-reverse-bits) |
 | 191 | Number Of 1 Bits | Easy | [191-number-of-1-bits](./191-number-of-1-bits) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
