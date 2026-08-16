@@ -94,6 +94,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 190 | Reverse Bits | Easy | [190-reverse-bits](./190-reverse-bits) |
 | 191 | Number Of 1 Bits | Easy | [191-number-of-1-bits](./191-number-of-1-bits) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
+| 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
 | 476 | Number Complement | Easy | [476-number-complement](./476-number-complement) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | Medium | [4033-longest-subsequence-with-non-zero-bitwise-xor](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 
@@ -336,6 +337,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
+| 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
@@ -404,6 +406,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
+| 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
