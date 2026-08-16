@@ -8,6 +8,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 11 | Container With Most Water | Medium | [11-container-with-most-water](./11-container-with-most-water) |
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
+| 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
@@ -39,6 +40,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
@@ -90,6 +92,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
 | 190 | Reverse Bits | Easy | [190-reverse-bits](./190-reverse-bits) |
 | 191 | Number Of 1 Bits | Easy | [191-number-of-1-bits](./191-number-of-1-bits) |
