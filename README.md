@@ -129,6 +129,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
+| 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
 
 ## Bucket Sort
@@ -204,6 +205,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
+| 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
 
 ## Design
@@ -271,6 +273,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
+| 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
 
 ## Greedy
@@ -536,6 +539,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
+| 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 
 ## Zero-Sum Game
 
