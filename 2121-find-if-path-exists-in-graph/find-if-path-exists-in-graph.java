@@ -18,13 +18,13 @@ class Solution {
         }
 
         boolean[] vis = new boolean[n];
-        bfs(source, ans, vis);
+        bfs(source, ans, vis, destination);
 
         return vis[destination];
 
     }
 
-    public void bfs(int start, ArrayList<ArrayList<Integer>> ans, boolean[] vis){
+    public void bfs(int start, ArrayList<ArrayList<Integer>> ans, boolean[] vis, int end){
         vis[start] = true;
 
         Queue<Integer> q = new LinkedList<>();
@@ -36,6 +36,8 @@ class Solution {
                 if(!vis[ele]){
                     q.add(ele);
                     vis[ele] = true;
+
+                    if(ele == end) return;
                 }
             }
         }
