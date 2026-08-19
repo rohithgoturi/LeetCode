@@ -185,6 +185,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1415 | Students And Examinations | Easy | [1415-students-and-examinations](./1415-students-and-examinations) |
 | 1509 | Replace Employee Id With The Unique Identifier | Easy | [1509-replace-employee-id-with-the-unique-identifier](./1509-replace-employee-id-with-the-unique-identifier) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | Easy | [1724-customer-who-visited-but-did-not-make-any-transactions](./1724-customer-who-visited-but-did-not-make-any-transactions) |
+| 1773 | Percentage Of Users Attended A Contest | Easy | [1773-percentage-of-users-attended-a-contest](./1773-percentage-of-users-attended-a-contest) |
 | 1801 | Average Time Of Process Per Machine | Easy | [1801-average-time-of-process-per-machine](./1801-average-time-of-process-per-machine) |
 | 1827 | Invalid Tweets | Easy | [1827-invalid-tweets](./1827-invalid-tweets) |
 | 1837 | Daily Leads And Partners | Easy | [1837-daily-leads-and-partners](./1837-daily-leads-and-partners) |
