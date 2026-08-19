@@ -42,7 +42,7 @@ class Solution {
             int row = front.row;
             int col = front.col;
 
-            if(row-1 >= 0){
+            if(row > 0){
                 if(grid[row-1][col] == '1' && !vis[row-1][col]){
                     q.add(new Pair(row-1, col));
                     vis[row-1][col] = true;
@@ -56,7 +56,7 @@ class Solution {
                 }
             }
 
-            if(col-1 >= 0){
+            if(col > 0){
                 if(grid[row][col-1] == '1' && !vis[row][col-1]){
                     q.add(new Pair(row, col-1));
                     vis[row][col-1] = true;
