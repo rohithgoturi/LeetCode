@@ -14,6 +14,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
+| 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
@@ -126,6 +127,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 111 | Minimum Depth Of Binary Tree | Easy | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
+| 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
@@ -200,6 +202,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
+| 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
@@ -360,6 +363,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
+
+## Matrix
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 
 ## Merge Sort
 
@@ -538,6 +547,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 
