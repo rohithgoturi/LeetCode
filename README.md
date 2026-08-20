@@ -139,6 +139,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
@@ -220,6 +221,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
@@ -303,6 +305,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 210 | Course Schedule Ii | Medium | [210-course-schedule-ii](./210-course-schedule-ii) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
@@ -352,6 +355,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
+
+## Kosaraju's Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
 ## Linked List
 
@@ -526,12 +535,19 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
+## Tarjan's SCC Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
+
 ## Topological Sort
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 207 | Course Schedule | Medium | [207-course-schedule](./207-course-schedule) |
 | 210 | Course Schedule Ii | Medium | [210-course-schedule-ii](./210-course-schedule-ii) |
+| 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
 ## Tournament Sort
 
