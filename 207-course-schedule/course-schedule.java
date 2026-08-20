@@ -8,7 +8,6 @@ class Solution {
         }
 
         int[] indegree = new int[n];
-        boolean[] vis = new boolean[n];
 
         for(int i=0; i<pre.length; i++){
             int a = pre[i][0];
@@ -22,10 +21,7 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
 
         for(int i=0; i<n; i++){
-            if(indegree[i] == 0){
-                q.add(i);
-                vis[i] = true;
-            }
+            if(indegree[i] == 0) q.add(i);
         }
 
         while(!q.isEmpty()){
@@ -34,10 +30,7 @@ class Solution {
 
             for(int ele : list.get(node)){
                 indegree[ele]--;
-                if(indegree[ele] == 0){
-                  q.add(ele);
-                  vis[ele] = true;
-                }
+                if(indegree[ele] == 0) q.add(ele);
             }
         }
 
