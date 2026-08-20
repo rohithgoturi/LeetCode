@@ -33,6 +33,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | Medium | [4033-longest-subsequence-with-non-zero-bitwise-xor](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
@@ -477,6 +478,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
+| 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
 ## Sliding Window
