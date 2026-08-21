@@ -139,6 +139,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 210 | Course Schedule Ii | Medium | [210-course-schedule-ii](./210-course-schedule-ii) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
+| 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
@@ -220,6 +221,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
+| 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
@@ -235,6 +237,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
 | 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
+
+## Dijkstra's Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 
 ## Directed Acyclic Graph
 
@@ -305,6 +313,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 207 | Course Schedule | Medium | [207-course-schedule](./207-course-schedule) |
 | 210 | Course Schedule Ii | Medium | [210-course-schedule-ii](./210-course-schedule-ii) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
+| 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
@@ -348,6 +357,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
+| 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
@@ -470,6 +480,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
+
+## Shortest Path
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 
 ## Simulation
 
