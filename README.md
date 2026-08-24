@@ -144,6 +144,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
@@ -230,6 +231,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
@@ -286,6 +288,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
+| 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
@@ -324,6 +327,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
@@ -368,6 +372,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
+| 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
@@ -499,6 +504,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
+| 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 
 ## Simulation
