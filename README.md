@@ -29,6 +29,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
+| 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -112,6 +113,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
 | 476 | Number Complement | Easy | [476-number-complement](./476-number-complement) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | Medium | [4033-longest-subsequence-with-non-zero-bitwise-xor](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
+
+## Borůvka's Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 
 ## Boyer–Moore Majority Vote Algorithm
 
@@ -332,6 +339,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
+| 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
 
@@ -391,6 +399,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
+
+## Kruskal's Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 
 ## Linked List
 
@@ -453,6 +467,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
+## Minimum Spanning Tree
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
+
 ## Monotonic Stack
 
 | # | Problem Name | Difficulty | Solution |
@@ -467,6 +487,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
+
+## Prim's Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 
 ## Queue
 
@@ -641,6 +667,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 
