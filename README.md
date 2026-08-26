@@ -16,6 +16,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
+| 217 | Contains Duplicate | Easy | [217-contains-duplicate](./217-contains-duplicate) |
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
@@ -376,6 +377,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 138 | Copy List With Random Pointer | Medium | [138-copy-list-with-random-pointer](./138-copy-list-with-random-pointer) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
+| 217 | Contains Duplicate | Easy | [217-contains-duplicate](./217-contains-duplicate) |
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
@@ -577,6 +579,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 147 | Insertion Sort List | Medium | [147-insertion-sort-list](./147-insertion-sort-list) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
+| 217 | Contains Duplicate | Easy | [217-contains-duplicate](./217-contains-duplicate) |
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
