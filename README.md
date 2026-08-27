@@ -8,6 +8,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 11 | Container With Most Water | Medium | [11-container-with-most-water](./11-container-with-most-water) |
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
+| 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -373,6 +374,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
+| 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 138 | Copy List With Random Pointer | Medium | [138-copy-list-with-random-pointer](./138-copy-list-with-random-pointer) |
@@ -576,6 +578,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
+| 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 147 | Insertion Sort List | Medium | [147-insertion-sort-list](./147-insertion-sort-list) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
@@ -615,6 +618,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
+| 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
