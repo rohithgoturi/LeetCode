@@ -208,6 +208,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1153 | Product Sales Analysis I | Easy | [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) |
 | 1161 | Project Employees I | Easy | [1161-project-employees-i](./1161-project-employees-i) |
 | 1258 | Article Views I | Easy | [1258-article-views-i](./1258-article-views-i) |
+| 1292 | Immediate Food Delivery Ii | Medium | [1292-immediate-food-delivery-ii](./1292-immediate-food-delivery-ii) |
 | 1317 | Monthly Transactions I | Medium | [1317-monthly-transactions-i](./1317-monthly-transactions-i) |
 | 1338 | Queries Quality And Percentage | Easy | [1338-queries-quality-and-percentage](./1338-queries-quality-and-percentage) |
 | 1415 | Students And Examinations | Easy | [1415-students-and-examinations](./1415-students-and-examinations) |
