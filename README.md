@@ -207,6 +207,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 595 | Big Countries | Easy | [595-big-countries](./595-big-countries) |
 | 1153 | Product Sales Analysis I | Easy | [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) |
 | 1161 | Project Employees I | Easy | [1161-project-employees-i](./1161-project-employees-i) |
+| 1182 | Game Play Analysis Iv | Medium | [1182-game-play-analysis-iv](./1182-game-play-analysis-iv) |
 | 1258 | Article Views I | Easy | [1258-article-views-i](./1258-article-views-i) |
 | 1292 | Immediate Food Delivery Ii | Medium | [1292-immediate-food-delivery-ii](./1292-immediate-food-delivery-ii) |
 | 1317 | Monthly Transactions I | Medium | [1317-monthly-transactions-i](./1317-monthly-transactions-i) |
