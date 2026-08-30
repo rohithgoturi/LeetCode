@@ -12,6 +12,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| 128 | Longest Consecutive Sequence | Medium | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
@@ -389,6 +390,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| 128 | Longest Consecutive Sequence | Medium | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | 138 | Copy List With Random Pointer | Medium | [138-copy-list-with-random-pointer](./138-copy-list-with-random-pointer) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
@@ -709,6 +711,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 128 | Longest Consecutive Sequence | Medium | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
