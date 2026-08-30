@@ -181,6 +181,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
+| 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 
 ## Counting Sort
@@ -385,6 +386,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
+| 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
@@ -623,6 +625,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
+| 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
