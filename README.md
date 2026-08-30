@@ -322,6 +322,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 
+## Floyd's Cycle Finding Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
+
 ## Floyd–Warshall Algorithm
 
 | # | Problem Name | Difficulty | Solution |
@@ -385,6 +391,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 138 | Copy List With Random Pointer | Medium | [138-copy-list-with-random-pointer](./138-copy-list-with-random-pointer) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
+| 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
 | 217 | Contains Duplicate | Easy | [217-contains-duplicate](./217-contains-duplicate) |
 | 219 | Contains Duplicate Ii | Easy | [219-contains-duplicate-ii](./219-contains-duplicate-ii) |
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
@@ -461,6 +468,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
+| 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
@@ -691,6 +699,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
+| 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
 | 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
 | 349 | Intersection Of Two Arrays | Easy | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
