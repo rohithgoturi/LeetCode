@@ -14,28 +14,27 @@ class Pair implements Comparable<Pair>{
 class Solution {
     public int[] topKFrequent(int[] arr, int k) {
         HashMap<Integer,Integer> map = new HashMap<>();
+
         for(int ele : arr){
             map.put(ele,map.getOrDefault(ele,0)+1);
         }
-        PriorityQueue<Pair> pq = new PriorityQueue<>(); // minheap
+
+        PriorityQueue<Pair> pq = new PriorityQueue<>();
+
         for(int ele : map.keySet()){
             int freq = map.get(ele);
             pq.add(new Pair(ele,freq));
             if(pq.size()>k) pq.remove();
         }
-        ArrayList<Integer> ans = new ArrayList<>();
+
+        int[] ans = new int[k];
+        int idx = 0;
+
         while(pq.size()>0){
             Pair top = pq.remove();
-            ans.add(top.ele);
+            ans[idx++] = top.ele; 
         }
-        Collections.reverse(ans);
-
-        int n = ans.size();
-        int[] answer = new int[n];
-
-        for(int i=0; i<n; i++){
-            answer[i] = ans.get(i);
-        }
-        return answer;
+        
+        return ans;
     }
 }
