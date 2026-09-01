@@ -8,6 +8,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 11 | Container With Most Water | Medium | [11-container-with-most-water](./11-container-with-most-water) |
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
+| 36 | Valid Sudoku | Medium | [36-valid-sudoku](./36-valid-sudoku) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -388,6 +389,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
+| 36 | Valid Sudoku | Medium | [36-valid-sudoku](./36-valid-sudoku) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -488,6 +490,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 36 | Valid Sudoku | Medium | [36-valid-sudoku](./36-valid-sudoku) |
 | 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 
