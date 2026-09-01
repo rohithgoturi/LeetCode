@@ -6,6 +6,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 1 | Two Sum | Easy | [1-two-sum](./1-two-sum) |
 | 11 | Container With Most Water | Medium | [11-container-with-most-water](./11-container-with-most-water) |
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
 | 36 | Valid Sudoku | Medium | [36-valid-sudoku](./36-valid-sudoku) |
@@ -388,6 +389,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 1 | Two Sum | Easy | [1-two-sum](./1-two-sum) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
