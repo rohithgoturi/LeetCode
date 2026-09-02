@@ -23,6 +23,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 217 | Contains Duplicate | Easy | [217-contains-duplicate](./217-contains-duplicate) |
 | 219 | Contains Duplicate Ii | Easy | [219-contains-duplicate-ii](./219-contains-duplicate-ii) |
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
+| 303 | Range Sum Query Immutable | Easy | [303-range-sum-query-immutable](./303-range-sum-query-immutable) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 349 | Intersection Of Two Arrays | Easy | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | 454 | 4Sum Ii | Medium | [454-4sum-ii](./454-4sum-ii) |
@@ -274,6 +275,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 225 | Implement Stack Using Queues | Easy | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
 | 295 | Find Median From Data Stream | Hard | [295-find-median-from-data-stream](./295-find-median-from-data-stream) |
+| 303 | Range Sum Query Immutable | Easy | [303-range-sum-query-immutable](./303-range-sum-query-immutable) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 
 ## Dijkstra's Algorithm
@@ -538,6 +540,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
+
+## Prefix Sum
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 303 | Range Sum Query Immutable | Easy | [303-range-sum-query-immutable](./303-range-sum-query-immutable) |
 
 ## Prim's Algorithm
 
