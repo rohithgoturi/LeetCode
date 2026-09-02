@@ -11,6 +11,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
 | 36 | Valid Sudoku | Medium | [36-valid-sudoku](./36-valid-sudoku) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
+| 53 | Maximum Subarray | Medium | [53-maximum-subarray](./53-maximum-subarray) |
 | 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -301,6 +302,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 23 | Merge K Sorted Lists | Hard | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
+| 53 | Maximum Subarray | Medium | [53-maximum-subarray](./53-maximum-subarray) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
@@ -322,6 +324,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 53 | Maximum Subarray | Medium | [53-maximum-subarray](./53-maximum-subarray) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
