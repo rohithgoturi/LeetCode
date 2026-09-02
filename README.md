@@ -54,6 +54,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 4080 | Smallest Missing Multiple Of K | Easy | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
+| 4256 | Construct Uniform Parity Array I | Easy | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 
 ## Backtracking
 
@@ -497,6 +498,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
+| 4256 | Construct Uniform Parity Array I | Easy | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 
 ## Matrix
 
