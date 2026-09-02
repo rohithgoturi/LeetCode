@@ -29,6 +29,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 454 | 4Sum Ii | Medium | [454-4sum-ii](./454-4sum-ii) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
+| 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -413,6 +414,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 349 | Intersection Of Two Arrays | Easy | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
 | 454 | 4Sum Ii | Medium | [454-4sum-ii](./454-4sum-ii) |
+| 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -547,6 +549,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 303 | Range Sum Query Immutable | Easy | [303-range-sum-query-immutable](./303-range-sum-query-immutable) |
+| 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
 | 1603 | Running Sum Of 1D Array | Easy | [1603-running-sum-of-1d-array](./1603-running-sum-of-1d-array) |
 
 ## Prim's Algorithm
