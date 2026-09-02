@@ -38,6 +38,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
+| 1603 | Running Sum Of 1D Array | Easy | [1603-running-sum-of-1d-array](./1603-running-sum-of-1d-array) |
 | 1677 | Matrix Diagonal Sum | Easy | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
@@ -546,6 +547,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 303 | Range Sum Query Immutable | Easy | [303-range-sum-query-immutable](./303-range-sum-query-immutable) |
+| 1603 | Running Sum Of 1D Array | Easy | [1603-running-sum-of-1d-array](./1603-running-sum-of-1d-array) |
 
 ## Prim's Algorithm
 
