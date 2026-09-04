@@ -37,6 +37,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
+| 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
@@ -315,6 +316,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
+| 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
 ## Doubly-Linked List
@@ -332,6 +334,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
+| 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
 | 1456 | Find The City With The Smallest Number Of Neighbors At A Threshold Distance | Medium | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
@@ -541,6 +544,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 
+## Monotonic Queue
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
+
 ## Monotonic Stack
 
 | # | Problem Name | Difficulty | Solution |
@@ -583,6 +592,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 225 | Implement Stack Using Queues | Easy | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
+| 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 
 ## Quickselect
