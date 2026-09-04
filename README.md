@@ -17,6 +17,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 128 | Longest Consecutive Sequence | Medium | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
+| 152 | Maximum Product Subarray | Medium | [152-maximum-product-subarray](./152-maximum-product-subarray) |
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
@@ -327,6 +328,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 53 | Maximum Subarray | Medium | [53-maximum-subarray](./53-maximum-subarray) |
+| 152 | Maximum Product Subarray | Medium | [152-maximum-product-subarray](./152-maximum-product-subarray) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
