@@ -43,6 +43,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
+| 1445 | Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold | Medium | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1603 | Running Sum Of 1D Array | Easy | [1603-running-sum-of-1d-array](./1603-running-sum-of-1d-array) |
 | 1677 | Matrix Diagonal Sum | Easy | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
@@ -647,6 +648,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | 219 | Contains Duplicate Ii | Easy | [219-contains-duplicate-ii](./219-contains-duplicate-ii) |
 | 643 | Maximum Average Subarray I | Easy | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
+| 1445 | Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold | Medium | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | Medium | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
