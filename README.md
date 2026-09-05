@@ -647,6 +647,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | 219 | Contains Duplicate Ii | Easy | [219-contains-duplicate-ii](./219-contains-duplicate-ii) |
 | 643 | Maximum Average Subarray I | Easy | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
+| 1567 | Maximum Number Of Vowels In A Substring Of Given Length | Medium | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 
@@ -700,6 +701,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
+| 1567 | Maximum Number Of Vowels In A Substring Of Given Length | Medium | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
