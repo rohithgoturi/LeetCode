@@ -21,6 +21,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
+| 209 | Minimum Size Subarray Sum | Medium | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 217 | Contains Duplicate | Easy | [217-contains-duplicate](./217-contains-duplicate) |
 | 219 | Contains Duplicate Ii | Easy | [219-contains-duplicate-ii](./219-contains-duplicate-ii) |
@@ -89,6 +90,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
+| 209 | Minimum Size Subarray Sum | Medium | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | 349 | Intersection Of Two Arrays | Easy | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 
@@ -579,6 +581,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 209 | Minimum Size Subarray Sum | Medium | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | 303 | Range Sum Query Immutable | Easy | [303-range-sum-query-immutable](./303-range-sum-query-immutable) |
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
@@ -648,6 +651,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
+| 209 | Minimum Size Subarray Sum | Medium | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | 219 | Contains Duplicate Ii | Easy | [219-contains-duplicate-ii](./219-contains-duplicate-ii) |
 | 643 | Maximum Average Subarray I | Easy | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | 1445 | Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold | Medium | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
