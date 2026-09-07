@@ -64,6 +64,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 | 4256 | Construct Uniform Parity Array I | Easy | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | 4258 | Construct Uniform Parity Array Ii | Medium | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
+| 4271 | Find The Degree Of Each Vertex | Easy | [4271-find-the-degree-of-each-vertex](./4271-find-the-degree-of-each-vertex) |
 
 ## Backtracking
 
@@ -398,6 +399,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
+| 4271 | Find The Degree Of Each Vertex | Easy | [4271-find-the-degree-of-each-vertex](./4271-find-the-degree-of-each-vertex) |
 
 ## Greedy
 
@@ -528,6 +530,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1677 | Matrix Diagonal Sum | Easy | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
+| 4271 | Find The Degree Of Each Vertex | Easy | [4271-find-the-degree-of-each-vertex](./4271-find-the-degree-of-each-vertex) |
 
 ## Merge Sort
 
