@@ -126,6 +126,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 783 | Search In A Binary Search Tree | Easy | [783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| 2347 | Count Nodes Equal To Average Of Subtree | Medium | [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree) |
 
 ## Bipartite Graph
 
@@ -280,6 +281,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
+| 2347 | Count Nodes Equal To Average Of Subtree | Medium | [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree) |
 | 3561 | Remove Methods From Project | Medium | [3561-remove-methods-from-project](./3561-remove-methods-from-project) |
 
 ## Design
@@ -762,6 +764,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 783 | Search In A Binary Search Tree | Easy | [783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| 2347 | Count Nodes Equal To Average Of Subtree | Medium | [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree) |
 
 ## Two Pointers
 
