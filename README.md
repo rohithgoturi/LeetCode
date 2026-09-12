@@ -8,6 +8,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 1 | Two Sum | Easy | [1-two-sum](./1-two-sum) |
 | 11 | Container With Most Water | Medium | [11-container-with-most-water](./11-container-with-most-water) |
+| 14 | Longest Common Prefix | Easy | [14-longest-common-prefix](./14-longest-common-prefix) |
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
 | 36 | Valid Sudoku | Medium | [36-valid-sudoku](./36-valid-sudoku) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
@@ -715,6 +716,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
+| 14 | Longest Common Prefix | Easy | [14-longest-common-prefix](./14-longest-common-prefix) |
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
@@ -769,6 +771,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 783 | Search In A Binary Search Tree | Easy | [783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2347 | Count Nodes Equal To Average Of Subtree | Medium | [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree) |
+
+## Trie
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 14 | Longest Common Prefix | Easy | [14-longest-common-prefix](./14-longest-common-prefix) |
 
 ## Two Pointers
 
