@@ -727,6 +727,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | Medium | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
+| 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
 
 ## Tarjan's SCC Algorithm
 
@@ -796,6 +797,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
+| 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
 
 ## Union-Find
 
