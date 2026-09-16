@@ -73,6 +73,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
 | 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
@@ -168,6 +169,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
+| 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
 
 ## Breadth-First Search
 
@@ -340,6 +342,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
 | 53 | Maximum Subarray | Medium | [53-maximum-subarray](./53-maximum-subarray) |
 | 152 | Maximum Product Subarray | Medium | [152-maximum-product-subarray](./152-maximum-product-subarray) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
@@ -720,6 +723,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
 | 14 | Longest Common Prefix | Easy | [14-longest-common-prefix](./14-longest-common-prefix) |
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
+| 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
