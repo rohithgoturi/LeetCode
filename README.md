@@ -494,6 +494,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 0019 | Remove Nth Node From End Of List | Medium | [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list) |
 | 23 | Merge K Sorted Lists | Hard | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
+| 25 | Reverse Nodes In K Group | Hard | [25-reverse-nodes-in-k-group](./25-reverse-nodes-in-k-group) |
 | 92 | Reverse Linked List Ii | Medium | [92-reverse-linked-list-ii](./92-reverse-linked-list-ii) |
 | 138 | Copy List With Random Pointer | Medium | [138-copy-list-with-random-pointer](./138-copy-list-with-random-pointer) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
@@ -634,6 +635,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 25 | Reverse Nodes In K Group | Hard | [25-reverse-nodes-in-k-group](./25-reverse-nodes-in-k-group) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
