@@ -492,6 +492,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 2 | Add Two Numbers | Medium | [2-add-two-numbers](./2-add-two-numbers) |
 | 0019 | Remove Nth Node From End Of List | Medium | [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list) |
 | 23 | Merge K Sorted Lists | Hard | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
 | 25 | Reverse Nodes In K Group | Hard | [25-reverse-nodes-in-k-group](./25-reverse-nodes-in-k-group) |
@@ -514,6 +515,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 2 | Add Two Numbers | Medium | [2-add-two-numbers](./2-add-two-numbers) |
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
 | 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
@@ -635,6 +637,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 2 | Add Two Numbers | Medium | [2-add-two-numbers](./2-add-two-numbers) |
 | 25 | Reverse Nodes In K Group | Hard | [25-reverse-nodes-in-k-group](./25-reverse-nodes-in-k-group) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
@@ -803,6 +806,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
+| 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
 
 ## Union-Find
