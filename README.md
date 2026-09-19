@@ -384,6 +384,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
+| 1501 | Circle And Rectangle Overlapping | Medium | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 
 ## Graph Coloring
 
@@ -525,6 +526,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
+| 1501 | Circle And Rectangle Overlapping | Medium | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
