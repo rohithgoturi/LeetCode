@@ -667,6 +667,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
+| 3811 | Reverse Degree Of A String | Easy | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
 
 ## Sliding Window
@@ -738,6 +739,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | Medium | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
+| 3811 | Reverse Degree Of A String | Easy | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
 
 ## Tarjan's SCC Algorithm
