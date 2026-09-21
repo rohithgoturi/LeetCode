@@ -61,6 +61,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 3799 | Unique 3 Digit Even Numbers | Easy | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
+| 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | Medium | [4033-longest-subsequence-with-non-zero-bitwise-xor](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4080 | Smallest Missing Multiple Of K | Easy | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -351,6 +352,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
 | 1456 | Find The City With The Smallest Number Of Neighbors At A Threshold Distance | Medium | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
+| 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
 
 ## Enumeration
 
@@ -533,6 +535,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
+| 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
 | 4248 | Count Commas In Range Ii | Medium | [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii) |
 | 4256 | Construct Uniform Parity Array I | Easy | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | 4258 | Construct Uniform Parity Array Ii | Medium | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
