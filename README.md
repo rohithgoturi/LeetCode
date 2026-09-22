@@ -385,6 +385,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 866 | Rectangle Overlap | Easy | [866-rectangle-overlap](./866-rectangle-overlap) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1501 | Circle And Rectangle Overlapping | Medium | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 
@@ -526,6 +527,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
+| 866 | Rectangle Overlap | Easy | [866-rectangle-overlap](./866-rectangle-overlap) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1501 | Circle And Rectangle Overlapping | Medium | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
