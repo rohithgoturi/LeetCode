@@ -16,6 +16,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | Construct Binary Tree From Inorder And Postorder Traversal | Medium | [106-construct-binary-tree-from-inorder-and-postorder-traversal](./106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| 119 | Pascals Triangle Ii | Easy | [119-pascals-triangle-ii](./119-pascals-triangle-ii) |
 | 128 | Longest Consecutive Sequence | Medium | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
 | 152 | Maximum Product Subarray | Medium | [152-maximum-product-subarray](./152-maximum-product-subarray) |
@@ -346,6 +347,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
 | 53 | Maximum Subarray | Medium | [53-maximum-subarray](./53-maximum-subarray) |
+| 119 | Pascals Triangle Ii | Easy | [119-pascals-triangle-ii](./119-pascals-triangle-ii) |
 | 152 | Maximum Product Subarray | Medium | [152-maximum-product-subarray](./152-maximum-product-subarray) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
