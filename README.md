@@ -174,6 +174,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 | 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
+| 1737 | Maximum Nesting Depth Of The Parentheses | Easy | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 
 ## Breadth-First Search
 
@@ -731,6 +732,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
+| 1737 | Maximum Nesting Depth Of The Parentheses | Easy | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | 2573 | Remove Nodes From Linked List | Medium | [2573-remove-nodes-from-linked-list](./2573-remove-nodes-from-linked-list) |
 
 ## String
@@ -748,6 +750,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | Medium | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| 1737 | Maximum Nesting Depth Of The Parentheses | Easy | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 | 3811 | Reverse Degree Of A String | Easy | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
