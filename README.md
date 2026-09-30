@@ -56,6 +56,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
+| 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | Medium | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
@@ -102,6 +103,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 209 | Minimum Size Subarray Sum | Medium | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | 349 | Intersection Of Two Arrays | Easy | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
+| 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 
 ## Binary Search Tree
 
@@ -714,6 +716,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
+| 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 
@@ -824,6 +827,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
+| 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
 
