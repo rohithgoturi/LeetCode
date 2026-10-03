@@ -547,6 +547,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 | 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
 | 3869 | Smallest Index With Digit Sum Equal To Index | Easy | [3869-smallest-index-with-digit-sum-equal-to-index](./3869-smallest-index-with-digit-sum-equal-to-index) |
+| 4245 | Count Commas In Range | Easy | [4245-count-commas-in-range](./4245-count-commas-in-range) |
 | 4248 | Count Commas In Range Ii | Medium | [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii) |
 | 4256 | Construct Uniform Parity Array I | Easy | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | 4258 | Construct Uniform Parity Array Ii | Medium | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
