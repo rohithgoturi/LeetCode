@@ -176,6 +176,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 | 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
+| 886 | Score Of Parentheses | Medium | [886-score-of-parentheses](./886-score-of-parentheses) |
 | 1737 | Maximum Nesting Depth Of The Parentheses | Easy | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 
 ## Breadth-First Search
@@ -734,6 +735,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
+| 886 | Score Of Parentheses | Medium | [886-score-of-parentheses](./886-score-of-parentheses) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 1737 | Maximum Nesting Depth Of The Parentheses | Easy | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
@@ -753,6 +755,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
+| 886 | Score Of Parentheses | Medium | [886-score-of-parentheses](./886-score-of-parentheses) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | Medium | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 1737 | Maximum Nesting Depth Of The Parentheses | Easy | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
