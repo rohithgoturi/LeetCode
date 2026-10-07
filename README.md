@@ -38,17 +38,13 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
 | 643 | Maximum Average Subarray I | Easy | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
-| 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
-| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1445 | Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold | Medium | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
-| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1603 | Running Sum Of 1D Array | Easy | [1603-running-sum-of-1d-array](./1603-running-sum-of-1d-array) |
 | 1677 | Matrix Diagonal Sum | Easy | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
@@ -57,7 +53,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
 | 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
-| 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | Medium | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -130,12 +125,10 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
-| 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 783 | Search In A Binary Search Tree | Easy | [783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2347 | Count Nodes Equal To Average Of Subtree | Medium | [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree) |
 
 ## Bipartite Graph
@@ -148,6 +141,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 67 | Add Binary | Easy | [67-add-binary](./67-add-binary) |
 | 78 | Subsets | Medium | [78-subsets](./78-subsets) |
 | 136 | Single Number | Easy | [136-single-number](./136-single-number) |
 | 190 | Reverse Bits | Easy | [190-reverse-bits](./190-reverse-bits) |
@@ -193,7 +187,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 207 | Course Schedule | Medium | [207-course-schedule](./207-course-schedule) |
-| 210 | Course Schedule Ii | Medium | [210-course-schedule-ii](./210-course-schedule-ii) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
@@ -220,7 +213,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
-| 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 
 ## Counting Sort
 
@@ -243,7 +235,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 570 | Managers With At Least 5 Direct Reports | Medium | [570-managers-with-at-least-5-direct-reports](./570-managers-with-at-least-5-direct-reports) |
 | 577 | Employee Bonus | Easy | [577-employee-bonus](./577-employee-bonus) |
 | 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
-| 595 | Big Countries | Easy | [595-big-countries](./595-big-countries) |
 | 1153 | Product Sales Analysis I | Easy | [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) |
 | 1161 | Project Employees I | Easy | [1161-project-employees-i](./1161-project-employees-i) |
 | 1182 | Game Play Analysis Iv | Medium | [1182-game-play-analysis-iv](./1182-game-play-analysis-iv) |
@@ -257,7 +248,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | Easy | [1724-customer-who-visited-but-did-not-make-any-transactions](./1724-customer-who-visited-but-did-not-make-any-transactions) |
 | 1773 | Percentage Of Users Attended A Contest | Easy | [1773-percentage-of-users-attended-a-contest](./1773-percentage-of-users-attended-a-contest) |
 | 1801 | Average Time Of Process Per Machine | Easy | [1801-average-time-of-process-per-machine](./1801-average-time-of-process-per-machine) |
-| 1827 | Invalid Tweets | Easy | [1827-invalid-tweets](./1827-invalid-tweets) |
 | 1837 | Daily Leads And Partners | Easy | [1837-daily-leads-and-partners](./1837-daily-leads-and-partners) |
 | 1892 | Find Total Time Spent By Each Employee | Easy | [1892-find-total-time-spent-by-each-employee](./1892-find-total-time-spent-by-each-employee) |
 | 1908 | Recyclable And Low Fat Products | Easy | [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) |
@@ -278,11 +268,9 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
-| 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 200 | Number Of Islands | Medium | [200-number-of-islands](./200-number-of-islands) |
 | 207 | Course Schedule | Medium | [207-course-schedule](./207-course-schedule) |
-| 210 | Course Schedule Ii | Medium | [210-course-schedule-ii](./210-course-schedule-ii) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
@@ -335,10 +323,8 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 191 | Number Of 1 Bits | Easy | [191-number-of-1-bits](./191-number-of-1-bits) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
-| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
 ## Doubly-Linked List
 
@@ -360,7 +346,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
 | 1456 | Find The City With The Smallest Number Of Neighbors At A Threshold Distance | Medium | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
 
 ## Enumeration
@@ -388,14 +373,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
-| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
 ## Geometry
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 866 | Rectangle Overlap | Easy | [866-rectangle-overlap](./866-rectangle-overlap) |
-| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1501 | Circle And Rectangle Overlapping | Medium | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 
 ## Graph Coloring
@@ -409,7 +392,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 207 | Course Schedule | Medium | [207-course-schedule](./207-course-schedule) |
-| 210 | Course Schedule Ii | Medium | [210-course-schedule-ii](./210-course-schedule-ii) |
 | 547 | Number Of Provinces | Medium | [547-number-of-provinces](./547-number-of-provinces) |
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 801 | Is Graph Bipartite | Medium | [801-is-graph-bipartite](./801-is-graph-bipartite) |
@@ -437,7 +419,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1 | Two Sum | Easy | [1-two-sum](./1-two-sum) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
-| 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
 | 36 | Valid Sudoku | Medium | [36-valid-sudoku](./36-valid-sudoku) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [105-construct-binary-tree-from-preorder-and-inorder-traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -456,9 +437,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 454 | 4Sum Ii | Medium | [454-4sum-ii](./454-4sum-ii) |
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
-| 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | Medium | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | Medium | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -479,15 +458,8 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
-| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
-
-## K-D Tree
-
-| # | Problem Name | Difficulty | Solution |
-|---|---|---|---|
-| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
 ## Kosaraju's Algorithm
 
@@ -506,13 +478,11 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 2 | Add Two Numbers | Medium | [2-add-two-numbers](./2-add-two-numbers) |
-| 0019 | Remove Nth Node From End Of List | Medium | [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list) |
 | 23 | Merge K Sorted Lists | Hard | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
 | 25 | Reverse Nodes In K Group | Hard | [25-reverse-nodes-in-k-group](./25-reverse-nodes-in-k-group) |
 | 92 | Reverse Linked List Ii | Medium | [92-reverse-linked-list-ii](./92-reverse-linked-list-ii) |
 | 138 | Copy List With Random Pointer | Medium | [138-copy-list-with-random-pointer](./138-copy-list-with-random-pointer) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
-| 147 | Insertion Sort List | Medium | [147-insertion-sort-list](./147-insertion-sort-list) |
 | 766 | Flatten A Multilevel Doubly Linked List | Medium | [766-flatten-a-multilevel-doubly-linked-list](./766-flatten-a-multilevel-doubly-linked-list) |
 | 2182 | Find The Minimum And Maximum Number Of Nodes Between Critical Points | Medium | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](./2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | 2216 | Delete The Middle Node Of A Linked List | Medium | [2216-delete-the-middle-node-of-a-linked-list](./2216-delete-the-middle-node-of-a-linked-list) |
@@ -530,7 +500,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 2 | Add Two Numbers | Medium | [2-add-two-numbers](./2-add-two-numbers) |
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
-| 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
+| 67 | Add Binary | Easy | [67-add-binary](./67-add-binary) |
 | 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
@@ -538,11 +508,8 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 866 | Rectangle Overlap | Easy | [866-rectangle-overlap](./866-rectangle-overlap) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
-| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1501 | Circle And Rectangle Overlapping | Medium | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
-| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
-| 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
@@ -577,7 +544,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
-| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
 ## Minimum Spanning Tree
 
@@ -643,7 +609,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
-| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
 ## Radix Sort
 
@@ -678,7 +643,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
-| 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
+| 67 | Add Binary | Easy | [67-add-binary](./67-add-binary) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
@@ -706,7 +671,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
-| 147 | Insertion Sort List | Medium | [147-insertion-sort-list](./147-insertion-sort-list) |
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 217 | Contains Duplicate | Easy | [217-contains-duplicate](./217-contains-duplicate) |
@@ -716,7 +680,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
 | 349 | Intersection Of Two Arrays | Easy | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
-| 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -730,11 +693,9 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 94 | Binary Tree Inorder Traversal | Easy | [94-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
-| 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 225 | Implement Stack Using Queues | Easy | [225-implement-stack-using-queues](./225-implement-stack-using-queues) |
 | 232 | Implement Queue Using Stacks | Easy | [232-implement-queue-using-stacks](./232-implement-queue-using-stacks) |
 | 503 | Next Greater Element Ii | Medium | [503-next-greater-element-ii](./503-next-greater-element-ii) |
-| 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 886 | Score Of Parentheses | Medium | [886-score-of-parentheses](./886-score-of-parentheses) |
 | 937 | Online Stock Span | Medium | [937-online-stock-span](./937-online-stock-span) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
@@ -747,11 +708,11 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
-| 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
 | 14 | Longest Common Prefix | Easy | [14-longest-common-prefix](./14-longest-common-prefix) |
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 | 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
+| 67 | Add Binary | Easy | [67-add-binary](./67-add-binary) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
@@ -774,7 +735,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 207 | Course Schedule | Medium | [207-course-schedule](./207-course-schedule) |
-| 210 | Course Schedule Ii | Medium | [210-course-schedule-ii](./210-course-schedule-ii) |
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
 ## Tournament Sort
@@ -801,12 +761,10 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 112 | Path Sum | Easy | [112-path-sum](./112-path-sum) |
 | 113 | Path Sum Ii | Medium | [113-path-sum-ii](./113-path-sum-ii) |
 | 144 | Binary Tree Preorder Traversal | Easy | [144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) |
-| 145 | Binary Tree Postorder Traversal | Easy | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view](./199-binary-tree-right-side-view) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 783 | Search In A Binary Search Tree | Easy | [783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2347 | Count Nodes Equal To Average Of Subtree | Medium | [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree) |
 
 ## Trie
@@ -821,7 +779,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 11 | Container With Most Water | Medium | [11-container-with-most-water](./11-container-with-most-water) |
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
-| 0019 | Remove Nth Node From End Of List | Medium | [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
@@ -834,6 +791,23 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
+
+## Uncategorized
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 13 | Roman To Integer | Unknown | [13-roman-to-integer](./13-roman-to-integer) |
+| 0019 | Remove Nth Node From End Of List | Unknown | [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list) |
+| 145 | Binary Tree Postorder Traversal | Unknown | [145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) |
+| 147 | Insertion Sort List | Unknown | [147-insertion-sort-list](./147-insertion-sort-list) |
+| 210 | Course Schedule Ii | Unknown | [210-course-schedule-ii](./210-course-schedule-ii) |
+| 595 | Big Countries | Unknown | [595-big-countries](./595-big-countries) |
+| 682 | Baseball Game | Unknown | [682-baseball-game](./682-baseball-game) |
+| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Unknown | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| 1014 | K Closest Points To Origin | Unknown | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
+| 1522 | Stone Game Iii | Unknown | [1522-stone-game-iii](./1522-stone-game-iii) |
+| 1827 | Invalid Tweets | Unknown | [1827-invalid-tweets](./1827-invalid-tweets) |
+| 2525 | Count Number Of Distinct Integers After Reverse Operations | Unknown | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 
 ## Union-Find
 
@@ -853,5 +827,4 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
-| 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 
