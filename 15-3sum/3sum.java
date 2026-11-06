@@ -1,43 +1,49 @@
-import java.util.*;
-
 class Solution {
+    public void threeSumHelper(int f, int[] nums, List<List<Integer>> res) {
+        int i = f + 1;
+        int j = nums.length - 1;
+
+        while (i < j) {
+            int sum = nums[f] + nums[i] + nums[j];
+
+            if (sum == 0) {
+                List<Integer> ans = new ArrayList<>();
+                ans.add(nums[f]);
+                ans.add(nums[i]);
+                ans.add(nums[j]);
+
+                res.add(ans);
+                i++;
+                j--;
+
+                while (i < j && nums[i] == nums[i - 1]) {
+                    i++;
+                }
+
+                while (i < j && nums[j] == nums[j + 1]) {
+                    j--;
+                }
+                
+            } else if (sum > 0) {
+                j--;
+            } else
+                i++;
+        }
+    }
+
     public List<List<Integer>> threeSum(int[] nums) {
-
-        List<List<Integer>> ans = new ArrayList<>();
-
+        List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
 
-        for (int i = 0; i < nums.length - 2; i++) {
-            if (i > 0 && nums[i] == nums[i - 1])
-                continue;
+        for (int f = 0; f < nums.length - 2; f++) {
+            if (nums[f] > 0)
+                break;
 
-            int left = i + 1;
-            int right = nums.length - 1;
-
-            while (left < right) {
-
-                int sum = nums[i] + nums[left] + nums[right];
-
-                if (sum == 0) {
-                    ans.add(Arrays.asList(nums[i], nums[left], nums[right]));
-
-                    left++;
-                    right--;
-
-                    while (left < right && nums[left] == nums[left - 1])
-                        left++;
-
-                    while (left < right && nums[right] == nums[right + 1])
-                        right--;
-
-                } else if (sum < 0) {
-                    left++;
-                } else {
-                    right--;
-                }
+            if (f == 0 || nums[f] != nums[f - 1]) {
+                threeSumHelper(f, nums, res);
             }
         }
 
-        return ans;
+        return res;
     }
 }
