@@ -48,7 +48,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 | 1019 | Squares Of A Sorted Array | Easy | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
-| 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1445 | Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold | Medium | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1603 | Running Sum Of 1D Array | Easy | [1603-running-sum-of-1d-array](./1603-running-sum-of-1d-array) |
@@ -317,7 +316,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
-| 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1456 | Find The City With The Smallest Number Of Neighbors At A Threshold Distance | Medium | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 
@@ -423,7 +421,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 820 | Find Eventual Safe States | Medium | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | 871 | Keys And Rooms | Medium | [871-keys-and-rooms](./871-keys-and-rooms) |
-| 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1456 | Find The City With The Smallest Number Of Neighbors At A Threshold Distance | Medium | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
@@ -488,7 +485,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
-| 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 
 ## K-D Tree
@@ -680,7 +676,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 744 | Network Delay Time | Medium | [744-network-delay-time](./744-network-delay-time) |
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
-| 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1456 | Find The City With The Smallest Number Of Neighbors At A Threshold Distance | Medium | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 
 ## Simulation
@@ -849,6 +844,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2917 | Count Pairs Whose Sum Is Less Than Target | Easy | [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
+
+## Uncategorized
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 1325 | Path With Maximum Probability | Unknown | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 
 ## Union-Find
 
