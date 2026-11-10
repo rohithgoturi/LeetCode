@@ -72,6 +72,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
 | 3869 | Smallest Index With Digit Sum Equal To Index | Easy | [3869-smallest-index-with-digit-sum-equal-to-index](./3869-smallest-index-with-digit-sum-equal-to-index) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | Medium | [4033-longest-subsequence-with-non-zero-bitwise-xor](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| 4041 | Climbing Stairs Ii | Medium | [4041-climbing-stairs-ii](./4041-climbing-stairs-ii) |
 | 4080 | Smallest Missing Multiple Of K | Easy | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | 4107 | Find Missing Elements | Easy | [4107-find-missing-elements](./4107-find-missing-elements) |
 | 4171 | Rotate Non Negative Elements | Medium | [4171-rotate-non-negative-elements](./4171-rotate-non-negative-elements) |
@@ -381,6 +382,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1456 | Find The City With The Smallest Number Of Neighbors At A Threshold Distance | Medium | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
+| 4041 | Climbing Stairs Ii | Medium | [4041-climbing-stairs-ii](./4041-climbing-stairs-ii) |
 
 ## Enumeration
 
