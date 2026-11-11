@@ -178,6 +178,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 169 | Majority Element | Easy | [169-majority-element](./169-majority-element) |
 | 229 | Majority Element Ii | Medium | [229-majority-element-ii](./229-majority-element-ii) |
 
+## Boyer–Moore String-Search Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 28 | Find The Index Of The First Occurrence In A String | Easy | [28-find-the-index-of-the-first-occurrence-in-a-string](./28-find-the-index-of-the-first-occurrence-in-a-string) |
+
 ## Bracket Sequences
 
 | # | Problem Name | Difficulty | Solution |
@@ -511,6 +517,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
 
+## Knuth–Morris–Pratt Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 28 | Find The Index Of The First Occurrence In A String | Easy | [28-find-the-index-of-the-first-occurrence-in-a-string](./28-find-the-index-of-the-first-occurrence-in-a-string) |
+
 ## Kosaraju's Algorithm
 
 | # | Problem Name | Difficulty | Solution |
@@ -785,6 +797,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 14 | Longest Common Prefix | Easy | [14-longest-common-prefix](./14-longest-common-prefix) |
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 | 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
+| 28 | Find The Index Of The First Occurrence In A String | Easy | [28-find-the-index-of-the-first-occurrence-in-a-string](./28-find-the-index-of-the-first-occurrence-in-a-string) |
 | 49 | Group Anagrams | Medium | [49-group-anagrams](./49-group-anagrams) |
 | 67 | Add Binary | Easy | [67-add-binary](./67-add-binary) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
@@ -800,6 +813,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 | 3811 | Reverse Degree Of A String | Easy | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
+
+## String Matching
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 28 | Find The Index Of The First Occurrence In A String | Easy | [28-find-the-index-of-the-first-occurrence-in-a-string](./28-find-the-index-of-the-first-occurrence-in-a-string) |
 
 ## Tarjan's SCC Algorithm
 
@@ -860,6 +879,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 11 | Container With Most Water | Medium | [11-container-with-most-water](./11-container-with-most-water) |
 | 15 | 3Sum | Medium | [15-3sum](./15-3sum) |
 | 0019 | Remove Nth Node From End Of List | Medium | [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list) |
+| 28 | Find The Index Of The First Occurrence In A String | Easy | [28-find-the-index-of-the-first-occurrence-in-a-string](./28-find-the-index-of-the-first-occurrence-in-a-string) |
 | 75 | Sort Colors | Medium | [75-sort-colors](./75-sort-colors) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome](./125-valid-palindrome) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
@@ -889,6 +909,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 2121 | Find If Path Exists In Graph | Easy | [2121-find-if-path-exists-in-graph](./2121-find-if-path-exists-in-graph) |
+
+## Z Algorithm
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 28 | Find The Index Of The First Occurrence In A String | Easy | [28-find-the-index-of-the-first-occurrence-in-a-string](./28-find-the-index-of-the-first-occurrence-in-a-string) |
 
 ## Zero-Sum Game
 
