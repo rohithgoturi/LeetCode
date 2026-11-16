@@ -724,6 +724,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
+| 2361 | Calculate Digit Sum Of A String | Easy | [2361-calculate-digit-sum-of-a-string](./2361-calculate-digit-sum-of-a-string) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 3811 | Reverse Degree Of A String | Easy | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
@@ -809,6 +810,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1078 | Remove Outermost Parentheses | Easy | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | Medium | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 1737 | Maximum Nesting Depth Of The Parentheses | Easy | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
+| 2361 | Calculate Digit Sum Of A String | Easy | [2361-calculate-digit-sum-of-a-string](./2361-calculate-digit-sum-of-a-string) |
 | 3349 | Maximum Length Substring With Two Occurrences | Easy | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 | 3811 | Reverse Degree Of A String | Easy | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
