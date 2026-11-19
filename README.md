@@ -43,7 +43,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 643 | Maximum Average Subarray I | Easy | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
@@ -142,7 +141,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 783 | Search In A Binary Search Tree | Easy | [783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2347 | Count Nodes Equal To Average Of Subtree | Medium | [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree) |
 
 ## Bipartite Graph
@@ -359,7 +357,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 191 | Number Of 1 Bits | Easy | [191-number-of-1-bits](./191-number-of-1-bits) |
 | 215 | Kth Largest Element In An Array | Medium | [215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) |
 | 347 | Top K Frequent Elements | Medium | [347-top-k-frequent-elements](./347-top-k-frequent-elements) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 948 | Sort An Array | Medium | [948-sort-an-array](./948-sort-an-array) |
 | 954 | Maximum Sum Circular Subarray | Medium | [954-maximum-sum-circular-subarray](./954-maximum-sum-circular-subarray) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
@@ -484,7 +481,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 454 | 4Sum Ii | Medium | [454-4sum-ii](./454-4sum-ii) |
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | Medium | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -569,6 +565,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
+| 412 | Fizz Buzz | Easy | [412-fizz-buzz](./412-fizz-buzz) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 866 | Rectangle Overlap | Easy | [866-rectangle-overlap](./866-rectangle-overlap) |
@@ -721,6 +718,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 67 | Add Binary | Easy | [67-add-binary](./67-add-binary) |
+| 412 | Fizz Buzz | Easy | [412-fizz-buzz](./412-fizz-buzz) |
 | 682 | Baseball Game | Easy | [682-baseball-game](./682-baseball-game) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
@@ -805,6 +803,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 151 | Reverse Words In A String | Medium | [151-reverse-words-in-a-string](./151-reverse-words-in-a-string) |
 | 242 | Valid Anagram | Easy | [242-valid-anagram](./242-valid-anagram) |
 | 383 | Ransom Note | Easy | [383-ransom-note](./383-ransom-note) |
+| 412 | Fizz Buzz | Easy | [412-fizz-buzz](./412-fizz-buzz) |
 | 680 | Valid Palindrome Ii | Easy | [680-valid-palindrome-ii](./680-valid-palindrome-ii) |
 | 886 | Score Of Parentheses | Medium | [886-score-of-parentheses](./886-score-of-parentheses) |
 | 1078 | Remove Outermost Parentheses | Easy | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
@@ -865,7 +864,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree](./226-invert-binary-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | Medium | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 783 | Search In A Binary Search Tree | Easy | [783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) |
-| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | 2347 | Count Nodes Equal To Average Of Subtree | Medium | [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree) |
 
 ## Trie
@@ -898,6 +896,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2917 | Count Pairs Whose Sum Is Less Than Target | Easy | [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
+
+## Uncategorized
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 925 | Construct Binary Tree From Preorder And Postorder Traversal | Unknown | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 
 ## Union-Find
 
