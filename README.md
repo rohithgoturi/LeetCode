@@ -377,6 +377,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 |---|---|---|---|
 | 22 | Generate Parentheses | Medium | [22-generate-parentheses](./22-generate-parentheses) |
 | 53 | Maximum Subarray | Medium | [53-maximum-subarray](./53-maximum-subarray) |
+| 70 | Climbing Stairs | Easy | [70-climbing-stairs](./70-climbing-stairs) |
 | 118 | Pascals Triangle | Easy | [118-pascals-triangle](./118-pascals-triangle) |
 | 119 | Pascals Triangle Ii | Easy | [119-pascals-triangle-ii](./119-pascals-triangle-ii) |
 | 121 | Best Time To Buy And Sell Stock | Easy | [121-best-time-to-buy-and-sell-stock](./121-best-time-to-buy-and-sell-stock) |
@@ -567,6 +568,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 12 | Integer To Roman | Medium | [12-integer-to-roman](./12-integer-to-roman) |
 | 13 | Roman To Integer | Easy | [13-roman-to-integer](./13-roman-to-integer) |
 | 67 | Add Binary | Easy | [67-add-binary](./67-add-binary) |
+| 70 | Climbing Stairs | Easy | [70-climbing-stairs](./70-climbing-stairs) |
 | 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
@@ -602,6 +604,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 4271 | Find The Degree Of Each Vertex | Easy | [4271-find-the-degree-of-each-vertex](./4271-find-the-degree-of-each-vertex) |
+
+## Memoization
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 70 | Climbing Stairs | Easy | [70-climbing-stairs](./70-climbing-stairs) |
 
 ## Merge Sort
 
