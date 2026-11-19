@@ -51,6 +51,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1305 | Number Of Visible People In A Queue | Hard | [1305-number-of-visible-people-in-a-queue](./1305-number-of-visible-people-in-a-queue) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1396 | Count Servers That Communicate | Medium | [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
+| 1421 | Find Numbers With Even Number Of Digits | Easy | [1421-find-numbers-with-even-number-of-digits](./1421-find-numbers-with-even-number-of-digits) |
 | 1445 | Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold | Medium | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1603 | Running Sum Of 1D Array | Easy | [1603-running-sum-of-1d-array](./1603-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
+| 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
 | 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -262,6 +264,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 197 | Rising Temperature | Easy | [197-rising-temperature](./197-rising-temperature) |
 | 570 | Managers With At Least 5 Direct Reports | Medium | [570-managers-with-at-least-5-direct-reports](./570-managers-with-at-least-5-direct-reports) |
 | 577 | Employee Bonus | Easy | [577-employee-bonus](./577-employee-bonus) |
 | 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
@@ -485,6 +488,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | Medium | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
@@ -576,6 +580,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 866 | Rectangle Overlap | Easy | [866-rectangle-overlap](./866-rectangle-overlap) |
 | 909 | Stone Game | Medium | [909-stone-game](./909-stone-game) |
 | 1014 | K Closest Points To Origin | Medium | [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin) |
+| 1421 | Find Numbers With Even Number Of Digits | Easy | [1421-find-numbers-with-even-number-of-digits](./1421-find-numbers-with-even-number-of-digits) |
 | 1444 | Number Of Steps To Reduce A Number To Zero | Easy | [1444-number-of-steps-to-reduce-a-number-to-zero](./1444-number-of-steps-to-reduce-a-number-to-zero) |
 | 1501 | Circle And Rectangle Overlapping | Medium | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
@@ -600,6 +605,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1396 | Count Servers That Communicate | Medium | [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | 1677 | Matrix Diagonal Sum | Easy | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
+| 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 4271 | Find The Degree Of Each Vertex | Easy | [4271-find-the-degree-of-each-vertex](./4271-find-the-degree-of-each-vertex) |
 
 ## Memoization
@@ -909,13 +915,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2917 | Count Pairs Whose Sum Is Less Than Target | Easy | [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
-
-## Uncategorized
-
-| # | Problem Name | Difficulty | Solution |
-|---|---|---|---|
-| 197 | Rising Temperature | Unknown | [197-rising-temperature](./197-rising-temperature) |
-| 2254 | Check If Every Row And Column Contains All Numbers | Unknown | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 
 ## Union-Find
 
