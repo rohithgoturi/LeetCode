@@ -58,7 +58,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
-| 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 2265 | Partition Array According To Given Pivot | Medium | [2265-partition-array-according-to-given-pivot](./2265-partition-array-according-to-given-pivot) |
 | 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -263,7 +262,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
-| 197 | Rising Temperature | Easy | [197-rising-temperature](./197-rising-temperature) |
 | 570 | Managers With At Least 5 Direct Reports | Medium | [570-managers-with-at-least-5-direct-reports](./570-managers-with-at-least-5-direct-reports) |
 | 577 | Employee Bonus | Easy | [577-employee-bonus](./577-employee-bonus) |
 | 584 | Find Customer Referee | Easy | [584-find-customer-referee](./584-find-customer-referee) |
@@ -487,7 +485,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
 | 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k](./560-subarray-sum-equals-k) |
 | 925 | Construct Binary Tree From Preorder And Postorder Traversal | Medium | [925-construct-binary-tree-from-preorder-and-postorder-traversal](./925-construct-binary-tree-from-preorder-and-postorder-traversal) |
-| 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | Medium | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
@@ -571,6 +568,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 70 | Climbing Stairs | Easy | [70-climbing-stairs](./70-climbing-stairs) |
 | 202 | Happy Number | Easy | [202-happy-number](./202-happy-number) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
+| 326 | Power Of Three | Easy | [326-power-of-three](./326-power-of-three) |
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
 | 412 | Fizz Buzz | Easy | [412-fizz-buzz](./412-fizz-buzz) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
@@ -602,7 +600,6 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1396 | Count Servers That Communicate | Medium | [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | 1677 | Matrix Diagonal Sum | Easy | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
-| 2254 | Check If Every Row And Column Contains All Numbers | Easy | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 | 4271 | Find The Degree Of Each Vertex | Easy | [4271-find-the-degree-of-each-vertex](./4271-find-the-degree-of-each-vertex) |
 
 ## Memoization
@@ -712,6 +709,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 25 | Reverse Nodes In K Group | Hard | [25-reverse-nodes-in-k-group](./25-reverse-nodes-in-k-group) |
 | 143 | Reorder List | Medium | [143-reorder-list](./143-reorder-list) |
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
+| 326 | Power Of Three | Easy | [326-power-of-three](./326-power-of-three) |
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
@@ -911,6 +909,13 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2917 | Count Pairs Whose Sum Is Less Than Target | Easy | [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
 | 3347 | Distribute Elements Into Two Arrays I | Easy | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | 4177 | Reverse String Prefix | Easy | [4177-reverse-string-prefix](./4177-reverse-string-prefix) |
+
+## Uncategorized
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 197 | Rising Temperature | Unknown | [197-rising-temperature](./197-rising-temperature) |
+| 2254 | Check If Every Row And Column Contains All Numbers | Unknown | [2254-check-if-every-row-and-column-contains-all-numbers](./2254-check-if-every-row-and-column-contains-all-numbers) |
 
 ## Union-Find
 
