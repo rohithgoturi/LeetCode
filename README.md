@@ -586,6 +586,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
+| 2608 | Count The Digits That Divide A Number | Easy | [2608-count-the-digits-that-divide-a-number](./2608-count-the-digits-that-divide-a-number) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
