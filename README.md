@@ -109,6 +109,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 167 | Two Sum Ii Input Array Is Sorted | Medium | [167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) |
 | 209 | Minimum Size Subarray Sum | Medium | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | 349 | Intersection Of Two Arrays | Easy | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
+| 367 | Valid Perfect Square | Easy | [367-valid-perfect-square](./367-valid-perfect-square) |
 | 1753 | Path With Minimum Effort | Medium | [1753-path-with-minimum-effort](./1753-path-with-minimum-effort) |
 | 2392 | Successful Pairs Of Spells And Potions | Medium | [2392-successful-pairs-of-spells-and-potions](./2392-successful-pairs-of-spells-and-potions) |
 | 2917 | Count Pairs Whose Sum Is Less Than Target | Easy | [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
@@ -574,6 +575,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 231 | Power Of Two | Easy | [231-power-of-two](./231-power-of-two) |
 | 326 | Power Of Three | Easy | [326-power-of-three](./326-power-of-three) |
 | 342 | Power Of Four | Easy | [342-power-of-four](./342-power-of-four) |
+| 367 | Valid Perfect Square | Easy | [367-valid-perfect-square](./367-valid-perfect-square) |
 | 412 | Fizz Buzz | Easy | [412-fizz-buzz](./412-fizz-buzz) |
 | 486 | Predict The Winner | Medium | [486-predict-the-winner](./486-predict-the-winner) |
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum](./523-continuous-subarray-sum) |
