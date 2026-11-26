@@ -591,6 +591,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2608 | Count The Digits That Divide A Number | Easy | [2608-count-the-digits-that-divide-a-number](./2608-count-the-digits-that-divide-a-number) |
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
+| 3172 | Divisible And Non Divisible Sums Difference | Easy | [3172-divisible-and-non-divisible-sums-difference](./3172-divisible-and-non-divisible-sums-difference) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 | 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
