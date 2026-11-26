@@ -593,6 +593,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2679 | Count Distinct Numbers On Board | Easy | [2679-count-distinct-numbers-on-board](./2679-count-distinct-numbers-on-board) |
 | 2748 | Calculate Delayed Arrival Time | Easy | [2748-calculate-delayed-arrival-time](./2748-calculate-delayed-arrival-time) |
 | 2752 | Sum Multiples | Easy | [2752-sum-multiples](./2752-sum-multiples) |
+| 2812 | Find The Maximum Achievable Number | Easy | [2812-find-the-maximum-achievable-number](./2812-find-the-maximum-achievable-number) |
 | 3172 | Divisible And Non Divisible Sums Difference | Easy | [3172-divisible-and-non-divisible-sums-difference](./3172-divisible-and-non-divisible-sums-difference) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
