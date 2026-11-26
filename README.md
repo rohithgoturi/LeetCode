@@ -595,6 +595,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 2752 | Sum Multiples | Easy | [2752-sum-multiples](./2752-sum-multiples) |
 | 2812 | Find The Maximum Achievable Number | Easy | [2812-find-the-maximum-achievable-number](./2812-find-the-maximum-achievable-number) |
 | 3172 | Divisible And Non Divisible Sums Difference | Easy | [3172-divisible-and-non-divisible-sums-difference](./3172-divisible-and-non-divisible-sums-difference) |
+| 3371 | Harshad Number | Easy | [3371-harshad-number](./3371-harshad-number) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 | 3831 | Find X Value Of Array I | Medium | [3831-find-x-value-of-array-i](./3831-find-x-value-of-array-i) |
