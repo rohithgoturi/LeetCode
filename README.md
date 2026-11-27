@@ -398,6 +398,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 2083 | Three Divisors | Easy | [2083-three-divisors](./2083-three-divisors) |
 | 3626 | Smallest Divisible Digit Product I | Easy | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | 3799 | Unique 3 Digit Even Numbers | Easy | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 
@@ -587,6 +588,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 1501 | Circle And Rectangle Overlapping | Medium | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | 1522 | Stone Game Iii | Hard | [1522-stone-game-iii](./1522-stone-game-iii) |
 | 1951 | Find The Winner Of The Circular Game | Medium | [1951-find-the-winner-of-the-circular-game](./1951-find-the-winner-of-the-circular-game) |
+| 2083 | Three Divisors | Easy | [2083-three-divisors](./2083-three-divisors) |
 | 2491 | Smallest Even Multiple | Easy | [2491-smallest-even-multiple](./2491-smallest-even-multiple) |
 | 2525 | Count Number Of Distinct Integers After Reverse Operations | Medium | [2525-count-number-of-distinct-integers-after-reverse-operations](./2525-count-number-of-distinct-integers-after-reverse-operations) |
 | 2608 | Count The Digits That Divide A Number | Easy | [2608-count-the-digits-that-divide-a-number](./2608-count-the-digits-that-divide-a-number) |
@@ -663,6 +665,7 @@ Automated topic-wise breakdown of solved LeetCode problems.
 
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
+| 2083 | Three Divisors | Easy | [2083-three-divisors](./2083-three-divisors) |
 | 2491 | Smallest Even Multiple | Easy | [2491-smallest-even-multiple](./2491-smallest-even-multiple) |
 | 3635 | Smallest Divisible Digit Product Ii | Hard | [3635-smallest-divisible-digit-product-ii](./3635-smallest-divisible-digit-product-ii) |
 
@@ -687,6 +690,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | # | Problem Name | Difficulty | Solution |
 |---|---|---|---|
 | 1706 | Min Cost To Connect All Points | Medium | [1706-min-cost-to-connect-all-points](./1706-min-cost-to-connect-all-points) |
+
+## Prime Factorization
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 2083 | Three Divisors | Easy | [2083-three-divisors](./2083-three-divisors) |
 
 ## Queue
 
@@ -740,6 +749,12 @@ Automated topic-wise breakdown of solved LeetCode problems.
 | 803 | Cheapest Flights Within K Stops | Medium | [803-cheapest-flights-within-k-stops](./803-cheapest-flights-within-k-stops) |
 | 1325 | Path With Maximum Probability | Medium | [1325-path-with-maximum-probability](./1325-path-with-maximum-probability) |
 | 1456 | Find The City With The Smallest Number Of Neighbors At A Threshold Distance | Medium | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+
+## Sieve Theory
+
+| # | Problem Name | Difficulty | Solution |
+|---|---|---|---|
+| 2083 | Three Divisors | Easy | [2083-three-divisors](./2083-three-divisors) |
 
 ## Simulation
 
